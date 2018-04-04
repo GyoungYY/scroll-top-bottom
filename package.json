@@ -1,0 +1,22 @@
+{
+  "name": "scroll-top-bottom",
+  "version": "1.0.0",
+  "description": "原生js实现动态向上、向下滚动插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyoungYY/scroll-top-bottom.git"
+  },
+  "keywords": [
+    "js实现向上向下滚动"
+  ],
+  "author": "yangguang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GyoungYY/scroll-top-bottom/issues"
+  },
+  "homepage": "https://github.com/GyoungYY/scroll-top-bottom#readme"
+}
